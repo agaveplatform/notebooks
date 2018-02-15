@@ -4,7 +4,7 @@ This repository contains notebooks for the Agave's AP series of trainings and tu
 
 ## Prerequisites  
 
-To run the notebooks, you need a Jupyter server with the Agave [CLI](https://github.com/agaveplatform/agave-cli, Python ([agavepy](https://github.com/TACC/agavepy)) or R ([rAgave](https://github.com/agaveplatform/r-sdk)) SDK installed. If you would like to run the notebooks using the [Agave Jupyter Notebook Server](https://github.com/agaveplatform/jupyter-notebook) Docker image, you will need the following:  
+To run the notebooks, you need a Jupyter server with the Agave [CLI](https://github.com/agaveplatform/agave-cli), Python ([agavepy](https://github.com/TACC/agavepy)) or R ([rAgave](https://github.com/agaveplatform/r-sdk)) SDK installed. If you would like to run the notebooks using the [Agave Jupyter Notebook Server](https://github.com/agaveplatform/jupyter-notebook) Docker image, you will need the following:  
 
 * Docker >= 1.11
 * Docker compose >= 1.7
